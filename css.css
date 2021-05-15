@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background-color: lightblue;
+}
+
+div.time {
+    border-style: solid;
+    margin-left: 600px;
+    margin-right: 600px;
+    background-color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 30px;
+}
